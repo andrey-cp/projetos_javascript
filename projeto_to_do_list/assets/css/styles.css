@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: rgb(184, 223, 255);
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#itens {
+    padding-top: 10px;
+    padding-left: 400px;
+    text-align:justify;
+}
+
+:checked + label {
+    text-decoration: line-through;
+    color: grey;
+  }
