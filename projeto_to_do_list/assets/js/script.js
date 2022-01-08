@@ -24,8 +24,4 @@ function adicionarItens()
             itens.appendChild(br);
         });
     }
-        
-   
-
-    console.log(lista);
 }
